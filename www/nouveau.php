@@ -633,7 +633,7 @@ Luxe</td>
           <td>
             
             <input name="PRIX" type="text" id="PRIX" size="3" maxlength="3" value="<?php echo $_GET['PRIX']; ?>" />
-&euro; <a href="infos-assurance.html" class="iframe" style="margin-left:40px;">&gt; ne cherchez pas &agrave; faire de b&eacute;n&eacute;fices</a></td>
+&euro; <a href="infos-assurance.html" target="_blank" class="iframe" style="margin-left:40px;">&gt; ne cherchez pas &agrave; faire de b&eacute;n&eacute;fices</a></td>
         </tr>
          <tr class="conducteur">
           <td>&nbsp;</td>
